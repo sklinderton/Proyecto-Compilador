@@ -1,0 +1,8 @@
+@ Mon Jul  7 20:53:10 2025                   YOUR NAME HERE
+@ Compiler    = c1shell_stage2.py
+@ Input file  = prueba-lexica.in
+@ Output file = salida_stage2.out
+@------------------------------------------- Assembler code
+
+Error on '' line 8 column 1
+Expecting NEWLINE
